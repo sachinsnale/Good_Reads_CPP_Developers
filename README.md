@@ -11,6 +11,7 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * C++11/14/17 : https://github.com/AnthonyCalandra/modern-cpp-features
   * Universal references c++ 11 : https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
   * CPP core guidlines : https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+  * Rvalue References : https://devblogs.microsoft.com/cppblog/rvalue-references-c0x-features-in-vc10-part-2/
 * ### Tools
   * CPPInsights : https://cppinsights.io/
   * Compiler Explorar : https://godbolt.org/
