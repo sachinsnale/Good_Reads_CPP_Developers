@@ -13,6 +13,7 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * CPP core guidlines : https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
   * Rvalue References : https://devblogs.microsoft.com/cppblog/rvalue-references-c0x-features-in-vc10-part-2/
   * How C++ Work, Understanding compilation: https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation
+  * Copy & swap idioms: https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom 
 * ### Tools
   * CPPInsights : https://cppinsights.io/
   * Compiler Explorar : https://godbolt.org/
