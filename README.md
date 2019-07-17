@@ -19,3 +19,6 @@ The repository is about the collection of blogs, links, good solutions, tools wh
 * ### Tools
   * CPPInsights : https://cppinsights.io/
   * Compiler Explorar : https://godbolt.org/
+
+* ### Books
+  * Bare Metal C++ : https://arobenko.gitbooks.io/bare_metal_cpp/content/
