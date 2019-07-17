@@ -22,3 +22,8 @@ The repository is about the collection of blogs, links, good solutions, tools wh
 
 * ### Books
   * Bare Metal C++ : https://arobenko.gitbooks.io/bare_metal_cpp/content/
+
+* ### Design 
+  * Be Nice and write stable code : http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html
+  * Object Oriented Design :https://googleweblight.com/i?u=https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_quick_guide.htm&hl=en-IN&tg=259&pt=4
+  * SOLID Principles : https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa
