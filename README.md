@@ -2,9 +2,10 @@ The repository is about the collection of blogs, links, good solutions, tools wh
 
 ## Index
 * ### Blogs
-  * Virtuality (private virtual) : http://www.gotw.ca/publications/mill18.htm
+  * Virtuality (private virtual) : So basically the blogger here, wants to throw some light on the 'publicity vs privacy' of the virtual     functions we use in our day to day c++ code. The situation here can be related to the single respobsiblity prinicple, here its more on     ground level, its one function with two reponsibilites one is providing interface cause its public and another is catering with           customizable implementation for subclasses.  http://www.gotw.ca/publications/mill18.htm
 * ### Sites
-  * ModernCPP : https://www.modernescpp.com/index.php/der-einstieg-in-modernes-c
+  * ModernCPP : This is one of the good site for learning about the modern c++ which consist of features from C++ 11/14/17/20. but its not   just that, it has something more which is divided like a)MultiThreading with modern c++ b) Embeded programming c) functional               programming.
+  https://www.modernescpp.com/index.php/der-einstieg-in-modernes-c
 * ### Solutions
   * Compile Time polymorphism: https://www.modernescpp.com/index.php/c-is-still-lazy
 * ### Features
