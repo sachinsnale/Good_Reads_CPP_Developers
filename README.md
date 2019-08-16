@@ -8,6 +8,8 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   https://www.modernescpp.com/index.php/der-einstieg-in-modernes-c
 * ### Solutions
   * Compile Time polymorphism: https://www.modernescpp.com/index.php/c-is-still-lazy
+  * QT 5 new connect syntax hack to manage connect for overloaded signal/slot :
+  https://stackoverflow.com/questions/16794695/connecting-overloaded-signals-and-slots-in-qt-5
 * ### Features
   * C++11/14/17 : https://github.com/AnthonyCalandra/modern-cpp-features
   * Universal references c++ 11 : https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
