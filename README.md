@@ -10,6 +10,9 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * Compile Time polymorphism: https://www.modernescpp.com/index.php/c-is-still-lazy
   * QT 5 new connect syntax hack to manage connect for overloaded signal/slot :
   https://stackoverflow.com/questions/16794695/connecting-overloaded-signals-and-slots-in-qt-5
+  * Reference to pointer fun(int*& var) : This topic is about understanding reference to pointer variable, what it means and a    solution it give in real life example.
+  https://stackoverflow.com/questions/5789806/meaning-of-and-in-c/57848083#57848083
+  i have also added my(Sachin N) answer to the topic please check.
 * ### Features
   * C++11/14/17 : https://github.com/AnthonyCalandra/modern-cpp-features
   * Universal references c++ 11 : https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
