@@ -21,7 +21,9 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * How C++ Work, Understanding compilation: https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation
   * Copy & swap idioms: https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom 
   * Move semantics :https://stackoverflow.com/questions/3106110/what-is-move-semantics
-
+  * Reference collapsing : https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c
+  * Fold-expressions : https://www.modernescpp.com/index.php/fold-expressions
+  
 * ### Tools
   * CPPInsights : https://cppinsights.io/
   * Compiler Explorar : https://godbolt.org/
