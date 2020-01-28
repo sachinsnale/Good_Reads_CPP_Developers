@@ -23,6 +23,9 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * Move semantics :https://stackoverflow.com/questions/3106110/what-is-move-semantics
   * Reference collapsing : https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c
   * Fold-expressions : https://www.modernescpp.com/index.php/fold-expressions
+
+* ### Guidelines
+  * https://github.com/isocpp/CppCoreGuidelines
   
 * ### Tools
   * CPPInsights : https://cppinsights.io/
