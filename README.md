@@ -24,8 +24,17 @@ The repository is about the collection of blogs, links, good solutions, tools wh
   * Reference collapsing : https://eli.thegreenplace.net/2014/perfect-forwarding-and-universal-references-in-c
   * Fold-expressions : https://www.modernescpp.com/index.php/fold-expressions
 
+* ### CPP_CON :
+  * What Do We Mean When We Say Nothing At All : https://www.youtube.com/watch?v=kYVxGyido9g
+  * Back to basics "modern c++" : https://www.youtube.com/watch?v=xnqTKD8uD64
+  * Simplicity [Not Just For Beginners] : https://www.youtube.com/watch?v=n0Ak6xtVXno
+  * 10 Core Guidelines You Need to Start Using Now : https://www.youtube.com/watch?v=XkDEzfpdcSg
+  * Back to Basics "Smart Pointers” : https://www.youtube.com/watch?v=xGDLkt-jBJ4
+  * Back to Basics "Lambdas from Scratch" :  https://www.youtube.com/watch?v=3jCOwajNch0
+
 * ### Guidelines
-  * https://github.com/isocpp/CppCoreGuidelines
+  *  https://github.com/isocpp/CppCoreGuidelines
+  * https://google.github.io/styleguide/cppguide.html
   
 * ### Tools
   * CPPInsights : https://cppinsights.io/
